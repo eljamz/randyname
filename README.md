@@ -40,7 +40,7 @@ Randyname.randymize(0, ' ') # => "green fire"
 
 Create `config/initializers/randyname.rb`
 
-Add your custome list as follow
+Add your custom list as follow
 
 ```
 Randyname.adjectives = %w{good better}
